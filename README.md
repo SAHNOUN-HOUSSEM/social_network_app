@@ -65,7 +65,7 @@ This project was developed by a dedicated team:
 
 - [Chaima Gharbi](https://github.com/ChaimaGharbi)  
 - [Mohamed Amine Gdoura](https://github.com/Medaminegdoura)
-- [Aziz Masmoudi](https://www.linkedin.com/in/aziz-masmoudi)
+- [Aziz Masmoudi](https://github.com/azizmass)
 - [Mahdi Chaabane](https://github.com/MahdiChaabane)
 - [Houssem Sahnoun](#)
 
