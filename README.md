@@ -2,11 +2,15 @@
 
 🚀 **Tuniconnect** is an innovative web application designed to enhance online connectivity within the Tunisian community. Developed as a team project, Tuniconnect offers a comprehensive set of features for real-time communication, community engagement, and carpooling.
 
+## Demonstration
+
+We’ve prepared a demonstration video showcasing key features, available at [this link on LinkedIn](https://www.linkedin.com/posts/mahdi-chaabane_react-reactjs-symfony-activity-7072158461911871488-Rdk5?utm_source=share&utm_medium=member_desktop).
+
+
 ## Table of Contents
 - [Features](#features)
 - [Technology Stack](#technology-stack)
 - [Installation](#installation)
-- [Demonstration](#demonstration)
 - [Contributors](#contributors)
 
 ## Features
@@ -24,12 +28,7 @@
 - **Real-Time Communication**: Ratchet (PHP library) with WebSocket
 - **Languages & Libraries**: PHP, JavaScript, HTML, CSS
 
-## Demonstration
 
-We’ve prepared a demonstration video showcasing key features, available at [this link on LinkedIn](https://www.linkedin.com/posts/mahdi-chaabane_react-reactjs-symfony-activity-7072158461911871488-Rdk5?utm_source=share&utm_medium=member_desktop).
-
-* **Real-Time Chat**: 2:42
-* **Carpool Section**: 3:13
 
 
 ## Installation
